@@ -1,0 +1,13 @@
+Comments on hashtags and mentions
+
+MENTIONS
+Indeed, the most common ones are names of parties and politicians
+(@cupnacional, @JuntsPelSi, @CiudadanosCs...). 
+At frequency 38, media start to appear (@tv3cat, @btvnoticies)
+I would say we can for sure remove all mentions that appear only 1 or 2.
+
+HASHTAGS
+I made a file with the "distribution" of every hashtag in stance. These are hashtags that appear at least 4 times in all the data (both languages together)
+I also made lists of hashtags that are only in favor, only against, only neutral.
+And I also have the hashtags that are "never against", "never in favor". Should I add them all here?
+
