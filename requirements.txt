@@ -1,0 +1,8 @@
+aipy==2.1.0
+gfapi==0.0.1
+numpy==1.13.0
+poxy==0.1
+pyephem==3.7.6.0
+scikit-learn==0.18.1
+scipy==0.19.0
+spead==0.5.1
