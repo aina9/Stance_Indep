@@ -19,7 +19,9 @@ with open("../data/full.txt") as f:
         X.append(cols[1]) ; y.append(cols[4])
         
 X = bigram_vectorizer.fit_transform(X).toarray()
+print(y[:10])
 y = encoder.fit_transform(y)
+print(y[:10])
 
 X_train, X_test, y_train, y_test = train_test_split(X, y)
 clf.fit(X_train, y_train)
