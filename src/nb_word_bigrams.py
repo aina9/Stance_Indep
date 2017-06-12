@@ -12,7 +12,7 @@ bigram_vectorizer = CountVectorizer(ngram_range=(1, 2),
 encoder = LabelEncoder()
 clf = MultinomialNB()
 
-with open("../data/full.txt") as f:
+with open("../data/full_for_cat.txt") as f:
     for line in f:
         cols = line.split("\t")
         # tweet, class, lang
